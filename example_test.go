@@ -2,7 +2,7 @@ package commandmocker_test
 
 import (
 	"fmt"
-	"github.com/tsuru/commandmocker"
+	"github.com/thifnmi/mypaas/commandmocker"
 	"os/exec"
 )
 
